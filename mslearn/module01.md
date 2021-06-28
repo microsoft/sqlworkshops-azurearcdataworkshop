@@ -42,13 +42,7 @@ In this module you will learn the fundamentals of hybrid computing and Azure Arc
 
 ## Chunk your content into subtasks
 
-Identify the subtasks of *module title*
-
-| Subtask | What part of the introduction scenario does this subtask satisfy? | How will you assess it: **Exercise or Knowledge check**? | Which learning objective(s) does this help meet? | Does the subtask have enough learning content to justify an entire unit? If not, which other subtask will you combine it with? |
-| ---- | ---- | ---- | ---- | ---- |
-| TODO | TODO | TODO | TODO | TODO |
-| TODO | TODO | TODO | TODO | TODO |
-| TODO | TODO | TODO | TODO | TODO |
+Not completed for this module
 
 ## Outline the units
 
