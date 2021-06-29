@@ -25,6 +25,7 @@
 ## Prerequisites
 
 - Azure Fundamentals part 1 learning Path
+- Manage hybrid infrastructure with Azure Arc learning path
 - Introduction to Azure SQL from Azure SQL Fundamentals learning Path
 - Introduction to Docker containers module in the Administer containers in Azure learning path
 - Introduction to Kubernetes module in the Administer containers in Azure learning path
